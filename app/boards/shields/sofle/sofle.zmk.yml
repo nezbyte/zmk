@@ -2,7 +2,7 @@ file_format: "1"
 id: sofle
 name: Sofle
 type: shield
-url: https://github.com/josefadamcik/SofleKeyboard
+url: https://keyhive.xyz/shop/sofle
 requires: [pro_micro]
 exposes: [i2c_oled]
 features:
@@ -10,7 +10,6 @@ features:
   - display
   - encoder
   - underglow
-  - studio
 siblings:
   - sofle_left
   - sofle_right
